@@ -1,0 +1,4 @@
+mode	co2_g_per_km	limit_km
+car	290	1000
+public transport	100	1000
+cycling	0	10
